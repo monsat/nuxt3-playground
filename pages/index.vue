@@ -1,5 +1,6 @@
 <script setup lang="ts">
 console.log('pages/index.vue')
+onMounted(() => { console.log('page', 'mounted') })
 </script>
 
 <template>
