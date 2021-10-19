@@ -4,7 +4,7 @@ onMounted(() => { console.log('page', 'mounted') })
 </script>
 
 <template>
-  <div>
+  <div id="page-index-vue">
     Hello, Nuxt 3.
   </div>
 </template>

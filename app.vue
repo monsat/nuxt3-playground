@@ -4,7 +4,7 @@ onMounted(() => { console.log('app.vue', 'mounted') })
 </script>
 
 <template>
-  <div>
+  <div id="app-vue">
     <NuxtPage/>
   </div>
 </template>

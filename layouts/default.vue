@@ -4,7 +4,7 @@ onMounted(() => { console.log('layout', 'mounted') })
 </script>
 
 <template>
-  <div>
+  <div id="layout-default-vue">
     <slot/>
   </div>
 </template>
